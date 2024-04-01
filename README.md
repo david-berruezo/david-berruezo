@@ -9,12 +9,12 @@ I create online repositories in English and Spanish to teach programming and com
 ### EcmaScript Design Patterns (JavaScript) 
 
 Software design patterns implemented in EcmaScript 6 In this project we present software design patterns in EcmaScript 6.
-<a href="https://github.com/david-berruezo/es6-design-patterns" target="blank">read it</a>
+<a href="https://github.com/david-berruezo/es6-design-patterns" target="_blank">read it</a>
 
 ### PhP Design Patterns (PhP)
 
 Software design patterns implemented in PhP 8 In this project we present software design patterns in PhP 8.
-<a href="https://github.com/david-berruezo/php-design-patterns" target="blank">read it</a>
+<a href="https://github.com/david-berruezo/php-design-patterns" target="_blank">read it</a>
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
