@@ -1,3 +1,4 @@
+<style>
 #icons li {
 	max-width: 100%;
 	height: auto;
@@ -7,6 +8,7 @@
 	padding-left: 6px;
 	display: inline-block;
 }
+</style>
 
 ### Hi, I'm David Berruezo. I'm a software developer. I love programming, learning, and helping others work mates.
 
