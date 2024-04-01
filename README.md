@@ -14,7 +14,7 @@ Software design patterns implemented in EcmaScript 6 In this project we present 
 ### PhP Design Patterns (PhP)
 
 Software design patterns implemented in PhP 8 In this project we present software design patterns in PhP 8.
-<a href="https://github.com/david-berruezo/php-design-patterns" target="blank"></a>
+<a href="https://github.com/david-berruezo/php-design-patterns" target="blank">read it</a>
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
