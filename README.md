@@ -3,7 +3,7 @@
 I create online repositories in English and Spanish to teach programming and computer science.
 
 
-<img src="https://www.davidberruezo.com/icons-github/html5.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/css3.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/javascript.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/react.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/node.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/php8.png" width="auto" height="50" /> <img src="https://www.davidberruezo.com/icons-github/mysql.png" width="auto" height="50" />
+<img src="https://www.davidberruezo.com/icons-github/html5.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/css3.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/javascript.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/react.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/node.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/php8.png" width="auto" height="75" /> <img src="https://www.davidberruezo.com/icons-github/mysql.png" width="auto" height="75" />
 
 
 ## EcmaScript Design Patterns (JavaScript) 
