@@ -5,16 +5,82 @@ I create online repositories in English and Spanish to teach programming and com
 
 <img src="https://www.davidberruezo.com/icons-github/html5.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/css3.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/javascript.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/react.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/node.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/php8.png" width="auto" height="75" /> <img src="https://www.davidberruezo.com/icons-github/mysql.png" width="auto" height="75" />
 
+### PhP Examples
+#### PhP Design Patterns , Testing , DDD (PhP) , Libraries as Google Maps oauth , crud , soap , api
+
+Software design patterns implemented in PhP 8 In this project we present software design patterns in PhP 8.
+<a href="https://github.com/david-berruezo/php-design-patterns" target="_blank">read it</a>
+
+Softrware unit testing design patterns
+<a href="https://github.com/david-berruezo/php-design-patterns-tests" target="_blank">read it</a>
+
+Libraries as Google Maps oauth
+<a href="https://github.com/david-berruezo/php-google-api" target="_blank">read it</a>
+
+Simple crud laravel , symfony , zend , pdo
+<a href="https://github.com/david-berruezo/php-crud-systems" target="_blank">read it</a>
+
+Consume example MRW barcode WebService to make it
+<a href="https://github.com/david-berruezo/php-soap-api" target="_blank">read it</a>
+
+Consume example Avantio WebService to manage reservations , properties, rates etc
+<a href="https://github.com/david-berruezo/avantio_cron_cli" target="_blank">read it</a>
+
+#### PhP Symfony
+
+Symfony Doctrine Associations Mapping
+<a href="https://github.com/david-berruezo/doctrine-orm-associations-mapping" target="_blank">read it</a>
+
+Softrware symfony ddd example
+<a href="https://github.com/david-berruezo/php-symfony-ddd" target="_blank">read it</a>
+
+#### WordPress templates , post types, hooks , actions , wp query , child theme , post meta, taxonomies , plugins , widgets
+
+Plugin to consume Avantio WebService to manage reservations , properties, rates etc to make custom  
+<a href="https://github.com/david-berruezo/wprentals-ws-avantio" target="_blank">read it</a>
+
+Theme modified from Wp Rentals <a href="https://wprentals.org/">wp rentals</a>  
+<a href="https://github.com/david-berruezo/wp-rentals-theme-modified" target="_blank">read it</a>
+
+Wordpress template example LLafranc Villas <a href="https://www.llvillas.com/">
+<a href="https://github.com/david-berruezo/llafranc-villas" target="_blank">read it</a>
+
+#### Prestashop templates , themes 
+
+Some prestasho templates 1.7 
+<a href="https://github.com/david-berruezo/prestashop-themes">read it</a>
+
+Several modules from prestashop 1.6 to prestashop 1.8
+<a href="https://github.com/david-berruezo/prestashop-modules">read it</a>
+
 
 ### EcmaScript Design Patterns (JavaScript) 
 
 Software design patterns implemented in EcmaScript 6 In this project we present software design patterns in EcmaScript 6.
 <a href="https://github.com/david-berruezo/es6-design-patterns" target="_blank">read it</a>
 
-### PhP Design Patterns (PhP)
 
-Software design patterns implemented in PhP 8 In this project we present software design patterns in PhP 8.
-<a href="https://github.com/david-berruezo/php-design-patterns" target="_blank">read it</a>
+
+### MySQL Examples Source Code (MySQL)
+
+Software design examples of MySQL Code as database, stored procedure, joins , unions , subqueries
+<a href="https://github.com/david-berruezo/mysql-projects" target="_blank">read it</a>
+
+### Apache Cordova example App (Mobile)
+
+Software design App for iOS and Android, Fetch Request to get content , geolocation plugin and more
+<a href="https://github.com/david-berruezo/portvil-app" target="_blank">read it</a>
+
+### React Native template App (Mobile)
+
+Software design App templates  for iOS and Android
+<a href="https://github.com/david-berruezo/templates-react-native" target="_blank">read it</a>
+
+### React template Websites (Web)
+
+Software design Website React templates
+<a href="https://github.com/david-berruezo/templates-react" target="_blank">read it</a>
+
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
