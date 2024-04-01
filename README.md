@@ -1,28 +1,10 @@
-<style>
-#icons li {
-	max-width: 100%;
-	height: auto;
-	line-height: 25px;
-	float: left;
-	margin-right: 10px;
-	padding-left: 6px;
-	display: inline-block;
-}
-</style>
-
 ### Hi, I'm David Berruezo. I'm a software developer. I love programming, learning, and helping others work mates.
 
 I create online repositories in English and Spanish to teach programming and computer science.
 
-<ul id="icons">
-<li><img src="https://www.davidberruezo.com/icons-github/html5.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/css3.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/javascript.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/react.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/node.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/php8.png" width="100" height="auto" /></li>
-<li><img src="https://www.davidberruezo.com/icons-github/mysql.png" width="100" height="auto" /></li>
-</ul>
+
+<img src="https://www.davidberruezo.com/icons-github/html5.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/css3.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/javascript.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/react.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/node.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/php8.png" width="100" height="auto" /> | <img src="https://www.davidberruezo.com/icons-github/mysql.png" width="100" height="auto" />
+
 
 ## EcmaScript Design Patterns (JavaScript) 
 
