@@ -6,9 +6,9 @@ I create online repositories in English and Spanish to teach programming and com
 <img src="https://www.davidberruezo.com/icons-github/html5.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/css3.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/javascript.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/react.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/node.png" width="auto" height="75" />&nbsp;&nbsp;<img src="https://www.davidberruezo.com/icons-github/php8.png" width="auto" height="75" /> <img src="https://www.davidberruezo.com/icons-github/mysql.png" width="auto" height="75" />
 
 
-## EcmaScript Design Patterns (JavaScript) 
+### EcmaScript Design Patterns (JavaScript) 
 
-## PhP Design Patterns (PhP)
+### PhP Design Patterns (PhP)
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
