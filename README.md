@@ -2,13 +2,12 @@
 
 I create online repositories in English and Spanish to teach programming and computer science.
 
-![Screenshot](/img/html5.png|width=100)
-![Screenshot](/img/css3.png|width=100)
-![Screenshot](/img/javascript.png|width=100)
-![Screenshot](/img/react.png|width=100)
-![Screenshot](/img/node.png|width=100)
-![Screenshot](/img/php8.png|width=100)
-![Screenshot](/img/mysql.png|width=100)
+<img src="https://www.davidberruezo.com/icons-github/html5.png" width="100" height="auto" />
+<img src="https://www.davidberruezo.com/icons-github/css3.png" width="100" height="auto" />
+<img src="https://www.davidberruezo.com/icons-github/javascript.png" width="100" height="auto" />
+<img src="https://www.davidberruezo.com/icons-github/react.png" width="100" height="auto" />
+<img src="https://www.davidberruezo.com/icons-github/php8.png" width="100" height="auto" />
+<img src="https://www.davidberruezo.com/icons-github/mysql.png" width="100" height="auto" />
 
 ## EcmaScript Design Patterns (JavaScript) 
 
