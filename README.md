@@ -2,13 +2,13 @@
 
 I create online repositories in English and Spanish to teach programming and computer science.
 
-![Screenshot](/img/html5.png)
-![Screenshot](/img/css3.png)
-![Screenshot](/img/javascript.png)
-![Screenshot](/img/react.png)
-![Screenshot](/img/node.png)
-![Screenshot](/img/php8.png)
-![Screenshot](/img/mysql.png)
+![Screenshot](/img/html5.png|width=100)
+![Screenshot](/img/css3.png|width=100)
+![Screenshot](/img/javascript.png|width=100)
+![Screenshot](/img/react.png|width=100)
+![Screenshot](/img/node.png|width=100)
+![Screenshot](/img/php8.png|width=100)
+![Screenshot](/img/mysql.png|width=100)
 
 ## EcmaScript Design Patterns (JavaScript) 
 
