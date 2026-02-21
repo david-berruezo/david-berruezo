@@ -34,6 +34,9 @@ Symfony Doctrine Associations Mapping
 Softrware symfony ddd example
 <a href="https://github.com/david-berruezo/php-symfony-ddd" target="_blank">read it</a>
 
+Symfony application example Portvil CMS
+<a href="https://github.com/david-berruezo/portvil-symfony-router-cms-avantio" target="_blank">read it</a>
+
 #### WordPress templates , post types, hooks , actions , wp query , child theme , post meta, taxonomies , plugins , widgets
 
 Plugin to consume Avantio WebService to manage reservations , properties, rates etc to make custom  
