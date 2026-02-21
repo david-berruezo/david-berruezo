@@ -53,6 +53,10 @@ Some prestasho templates 1.7
 Several modules from prestashop 1.6 to prestashop 1.8
 <a href="https://github.com/david-berruezo/prestashop-modules">read it</a>
 
+#### Moodle plugins
+
+Some PHP Moodle plugins
+<a href="https://github.com/david-berruezo/moodle_plugins">read it</a>
 
 ### JavaScript | EcmaScript | Source code
 
@@ -60,6 +64,12 @@ Several modules from prestashop 1.6 to prestashop 1.8
 
 Software design patterns implemented in EcmaScript 6 In this project we present software design patterns in EcmaScript 6.
 <a href="https://github.com/david-berruezo/es6-design-patterns" target="_blank">read it</a>
+
+Implementation some ecmascript modules and amd modules for Moodle CMS
+<a href="https://github.com/david-berruezo/moodle_ecmascript_modules" target="_blank">read it</a>
+
+Implementation AMD modules
+<a href="https://github.com/david-berruezo/amd-modulos" target="_blank">read it</a>
 
 #### React template Websites (Web)
 
@@ -97,8 +107,8 @@ Software design examples of MySQL Code as database, stored procedure, joins , un
 Model data for database
 <a href="https://github.com/david-berruezo/mysql-code-data-models" target="_blank">read it</a>
 
-
-
+#### MySQL queries for Moodle CMS
+<a href="https://github.com/david-berruezo/moodle_queries">read it</a>
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
