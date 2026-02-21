@@ -111,7 +111,7 @@ Model data for database
 <a href="https://github.com/david-berruezo/mysql-code-data-models" target="_blank">read it</a>
 
 #### MySQL queries for Moodle CMS
-Most important queries about Moodle CMS<a href="https://github.com/david-berruezo/moodle_queries">read it</a>
+Most important queries about Moodle CMS <a href="https://github.com/david-berruezo/moodle_queries">read it</a>
 
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
