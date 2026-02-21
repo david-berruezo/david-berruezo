@@ -113,6 +113,9 @@ Model data for database
 #### MySQL queries for Moodle CMS
 Most important queries about Moodle CMS <a href="https://github.com/david-berruezo/moodle_queries">read it</a>
 
+#### MySQL expensive examples of queries with sakila MySQL database
+Examples of queries with sakila database <a href="https://github.com/david-berruezo/mysql-sakila-examples">read it</a>
+
 <!--
 **david-berruezo/david-berruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
